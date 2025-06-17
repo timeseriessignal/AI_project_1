@@ -22,6 +22,11 @@ The pipeline consists of:
 - **Usage:** Training semantic/instance segmentation models to detect food regions.
 
 ---
+## 🧠 My Framework
+
+![Mô tả ảnh](images/frw.png)
+
+
 
 ## 🧠 Model Pipeline
 
