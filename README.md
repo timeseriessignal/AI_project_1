@@ -38,7 +38,7 @@ The pipeline consists of:
 python train_net.py \
   --config-file configs/foodseg103/mask2former_R50.yaml \
   --num-gpus 2
-'''
+```
 
 🎨 2. Background Generation – Stable Diffusion
 Model: Stable Diffusion Inpainting
