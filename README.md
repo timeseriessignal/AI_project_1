@@ -82,8 +82,8 @@ result = pipe(
 
 # Clone project
 ```bash
-git clone https://github.com/yourusername/ai-restaurant-image-editing.git
-cd ai-restaurant-image-editing
+git clone https://github.com/timeseriessignal/AI_project_1.git
+cd AI_project_1
 ```
 # Install dependencies
 ```bash
