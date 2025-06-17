@@ -81,9 +81,12 @@ result = pipe(
 
 
 # Clone project
+```bash
 git clone https://github.com/yourusername/ai-restaurant-image-editing.git
 cd ai-restaurant-image-editing
-
+```
 # Install dependencies
+```bash
 pip install -r requirements.txt
 
+```
