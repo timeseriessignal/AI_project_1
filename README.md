@@ -48,7 +48,7 @@ Framework: 🤗 HuggingFace diffusers or CompVis implementation
 Input: Masked food image + text prompt
 
 Output: AI-generated background (styled or realistic)
-
+```bash
 from diffusers import StableDiffusionInpaintPipeline
 import torch
 from PIL import Image
@@ -62,7 +62,7 @@ result = pipe(
     image=original_image,
     mask_image=mask_image
 ).images[0]
-
+```
 ⚙️ How It Works
 📸 Upload or load a food image.
 
